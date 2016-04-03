@@ -1,4 +1,5 @@
-# Papers I'm reading
+# Papers I love
 
-This is a collection of papers I'm reading with links to the papers and and
-short reviews.
+This repository is a collection of short reviews of the papers I'm reading.
+
+1. [Kafka: a Distributed Messaging System for Log Processing](./Kafka.md)
